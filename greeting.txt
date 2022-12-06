@@ -1,1 +1,1 @@
-greeting
+your favorite greeting
